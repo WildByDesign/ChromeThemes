@@ -1,0 +1,128 @@
+{
+    "name": "Chrome Refresh 2023 Dark",
+    "version": "1.0",
+    "author": "WildByDesign",
+    "description": "This is a fix to the unpleasant default Chrome Refresh 2023 theme.",
+    "manifest_version": 3,
+    "theme": {
+        "colors": {
+            "background_tab": [
+                32,
+                32,
+                32
+            ],
+            "background_tab_inactive": [
+                32,
+                32,
+                32
+            ],
+            "background_tab_incognito": [
+                32,
+                32,
+                32
+            ],
+            "background_tab_incognito_inactive": [
+                32,
+                32,
+                32
+            ],
+            "frame": [
+                32,
+                32,
+                32
+            ],
+            "frame_inactive": [
+                32,
+                32,
+                32
+            ],
+            "frame_incognito": [
+                32,
+                32,
+                32
+            ],
+            "frame_incognito_inactive": [
+                32,
+                32,
+                32
+            ],
+            "toolbar": [
+                43,
+                43,
+                43
+            ],
+            "toolbar_button_icon": [
+                255,
+                255,
+                255
+            ],
+            "tab_text": [
+                255,
+                255,
+                255
+            ],
+            "tab_background_text": [
+                255,
+                255,
+                255
+            ],
+            "tab_background_text_inactive": [
+                199,
+                199,
+                199
+            ],
+            "tab_background_text_incognito": [
+                255,
+                255,
+                255
+            ],
+            "tab_background_text_incognito_inactive": [
+                199,
+                199,
+                199
+            ],
+            "bookmark_text": [
+                255,
+                255,
+                255
+            ],
+            "ntp_background": [
+                32,
+                32,
+                32
+            ],
+            "ntp_text": [
+                255,
+                255,
+                255
+            ],
+            "ntp_link": [
+                6,
+                55,
+                116
+            ],
+            "omnibox_background": [
+                32,
+                32,
+                32
+            ],
+            "omnibox_text": [
+                255,
+                255,
+                255
+            ]
+        },
+        "tints": {
+            "buttons": [
+                0,
+                0,
+                1
+            ]
+        },
+        "properties": {
+            "ntp_background_alignment": "bottom",
+            "ntp_logo_alternate": 1,
+            "ntp_background_repeat": "no-repeat"
+        }
+    }
+}
